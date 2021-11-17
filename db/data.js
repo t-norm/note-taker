@@ -14,5 +14,14 @@ const addNote = (note) => {
     return;
 };
 
+const deleteNote = (note) => {
+    for (let i = 0; i < db.length; i++) {
+        if (db[i].id === note.id) {
+            db.splice(i, 1);
+        }
+    };
+    return;
+};
+
 //exports
-module.exports = {addNote}
+module.exports = {addNote, deleteNote};
