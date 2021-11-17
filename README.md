@@ -1,5 +1,7 @@
 # <h1 align="center">Note Taker</h1>
 
+<p align="center">Visit the deployed app: <a href="https://my-cool-note-taker.herokuapp.com/" target="_blank">https://my-cool-note-taker.herokuapp.com/</a></p>
+
 <p align="center"><img src="https://img.shields.io/badge/License-MIT-important?style=plastic" /></p>
 <p align="center">
     <img src="https://img.shields.io/badge/Skillset-Backend%20Dev-blue?style=plastic" />
@@ -23,10 +25,10 @@ A note taking app built to showcase Express.js knowledge.
 - [Questions](#questions)
 
 # Installation:
-TO BE UPDATED IN THE FUTURE
+None neccessary; app is deployed via Heroku at: <a href="https://my-cool-note-taker.herokuapp.com/" target="_blank">https://my-cool-note-taker.herokuapp.com/</a>
 
 # Usage:
-TO BE UPDATED IN THE FUTURE
+This app is intended for use as a note taking web app.
 
 # Contribution:
 This project was made for educational purposes. Feel free to clone the code within and modify your copy to your heart's content.
